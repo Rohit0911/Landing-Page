@@ -15,7 +15,7 @@ const Home = () => {
                         <div className="h-50">
                             <lottie-player src="https://assets7.lottiefiles.com/private_files/lf30_8npirptd.json" 
                             background="transparent" 
-                            speed="0.5" loop autoplay></lottie-player>
+                            speed="1" loop autoplay></lottie-player>
                             <h3 className='text-white mt-3' data-aos="slide-left">
                             Machine Learning Enthusiast</h3>
                         </div>
