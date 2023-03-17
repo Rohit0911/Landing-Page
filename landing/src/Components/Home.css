@@ -1,0 +1,39 @@
+.parent-container {
+    height: 100vh;
+}
+
+.d-flex {
+    height: 100%;
+}
+
+.part1 {
+    height: 100%;
+    width: 50%;
+    background: #0099F7;
+    background: -webkit-linear-gradient(to right, #F11712, #0099F7);
+    background: linear-gradient(to right, #F11712, #0099F7);
+    
+}
+
+.part2 {
+    height: 100%;
+    width: 50%;
+    background: #2F7336;
+    background: -webkit-linear-gradient(to right, #AA3A38, #2F7336);
+    background: linear-gradient(to right, #AA3A38, #2F7336);
+
+}
+
+/* .seperator{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    color: aliceblue;
+}
+
+.seperator span{
+    writing-mode: vertical-lr;
+    text-orientation: upright;
+    font-size: 25px;
+} */
